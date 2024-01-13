@@ -1,7 +1,3 @@
-// Ali Kemal Dilek
-// 1306230043
-// 13.01.2024
-// Assignment #1
 
 #include <iostream>
 #include <string>
